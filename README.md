@@ -8,7 +8,7 @@ During the scenario, I conducted a disk forensics investigation of a compromised
 - **Attack 2:** Execution → Command and Control → Credential Access → Discovery → Collection → Exfiltration
 
 I also provided recommendations for each identified technique and wrote a **Suricata rule** to detect exfiltration attempts.
-# Executive Summary
+## Executive Summary
 
 On **05/07/2026**, the **DESKTOP-2A1O8LD** workstation within the **anmar** domain was subjected to two cyberattacks.
 
